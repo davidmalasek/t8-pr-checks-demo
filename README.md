@@ -30,7 +30,7 @@ Notebook `nb_bronze_demo` zapíše tabulky `bronze_zastavky_demo`, `bronze_linky
 
 ## Silver – pravidla čištění
 
-Silver vrstva v ukázce zatím není, pravidla čištění se popíší u každé tabulky zvlášť.
+`silver_zastavky_demo`: odstraněné duplicity podle `id`, sloupec `datum` převedený na typ date.
 
 ## Kvalita dat a logování
 
