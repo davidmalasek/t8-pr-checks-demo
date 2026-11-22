@@ -39,7 +39,3 @@ Kvalita dat se v ukázce nehlídá. Ve skutečném projektu sem patří DQ pravi
 ## Tým
 
 Ukázku připravil squad 25 (David Malášek) pro guildu Git, CI/CD a governance.
-
-## Použití AI
-
-S přípravou ukázkového notebooku a README pomáhal Claude (Anthropic), výstup jsme zkontrolovali.
